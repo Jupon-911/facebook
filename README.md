@@ -1,6 +1,9 @@
 ## No Options ( Males )
 ## Yandex.com
-## Dev = Alvino___
+## Dev = Alvino___xy
+
+# Screenshot
+![deskripsi gambar](https://i.ibb.co/p2hYbrX/Screenshot-2022-04-30-11-45-32-058-com-termux.png)
 # Cara Installnya
 ```bash
 $ cd
